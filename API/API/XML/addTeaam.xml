@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database name="trabalhop3">
+    <table name="league">
+        <column name="leagueID" type="int">1</column>
+        <column name="leagueName" type="varchar">Liga Portugal</column>
+        <column name="leagueCountry" type="varchar">Portugal</column>
+        <column name="leagueMaxCap" type="int">18</column>
+    </table>
+    <table name="league">
+        <column name="leagueID" type="int">2</column>
+        <column name="leagueName" type="varchar">Premier League</column>
+        <column name="leagueCountry" type="varchar">England</column>
+        <column name="leagueMaxCap" type="int">20</column>
+    </table>
+    <table name="league">
+        <column name="leagueID" type="int">3</column>
+        <column name="leagueName" type="varchar">Bundesliga</column>
+        <column name="leagueCountry" type="varchar">Germany</column>
+        <column name="leagueMaxCap" type="int">18</column>
+    </table>
+
+    <table name="team">
+        <column name="teamID" type="int">1</column>
+        <column name="teamName" type="varchar">Sport Lisboa e Benfica</column>
+        <column name="FkLeagueID" type="int">1</column>
+    </table>
+    <table name="team">
+        <column name="teamID" type="int">2</column>
+        <column name="teamName" type="varchar">Sporting Clube de Portugal</column>
+        <column name="FkLeagueID" type="int">1</column>
+    </table>
+    <table name="team">
+        <column name="teamID" type="int">3</column>
+        <column name="teamName" type="varchar">Ballspiel-Verein Borussia 1909 e. V. Dortmund</column>
+        <column name="FkLeagueID" type="int">3</column>
+    </table>
+    <table name="team">
+        <column name="teamID" type="int">4</column>
+        <column name="teamName" type="varchar">Futebol Clube do Porto</column>
+        <column name="FkLeagueID" type="int">1</column>
+    </table>
+
+    <table name="user">
+        <column name="userID" type="int">1</column>
+        <column name="userName" type="varchar">Admin</column>
+        <column name="userPassword" type="varchar">123456!</column>
+        <column name="userRole" type="varchar">Admin</column>
+    </table>
+    <table name="user">
+        <column name="userID" type="int">2</column>
+        <column name="userName" type="varchar">Castro</column>
+        <column name="userPassword" type="varchar">12345!</column>
+        <column name="userRole" type="varchar">Normal</column>
+    </table>
+</database>

@@ -1,0 +1,313 @@
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\obj\Debug\WindowsFormsIS.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\WindowsFormsIS.exe.config
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\WindowsFormsIS.exe
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\WindowsFormsIS.pdb
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\obj\Debug\WindowsF.A9FC3C3E.Up2Date
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\obj\Debug\WindowsFormsIS.exe
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\obj\Debug\WindowsFormsIS.pdb
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\obj\Debug\WindowsFormsIS.MainForm.resources
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\bin\Debug\WindowsFormsIS.exe.config
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\bin\Debug\WindowsFormsIS.exe
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\bin\Debug\WindowsFormsIS.pdb
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\obj\Debug\WindowsFormsIS.MainForm.resources
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\obj\Debug\WindowsFormsIS.Properties.Resources.resources
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.GenerateResource.cache
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\obj\Debug\WindowsF.A9FC3C3E.Up2Date
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\obj\Debug\WindowsFormsIS.exe
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\obj\Debug\WindowsFormsIS.pdb
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\System.Buffers.dll
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\System.Memory.dll
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\System.Text.Json.dll
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\System.ValueTuple.dll
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\System.Buffers.xml
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\System.Memory.xml
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\System.Text.Json.xml
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\System.ValueTuple.xml
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\obj\Debug\WindowsFormsIS.FormLogin.resources
+C:\Users\joao9\Downloads\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.AssemblyReference.cache
+C:\Users\joao9\Downloads\WindowsFormsIS\obj\Debug\WindowsFormsIS.FormUserLogin.resources
+C:\Users\joao9\Downloads\WindowsFormsIS\obj\Debug\WindowsFormsIS.Main.resources
+C:\Users\joao9\Downloads\WindowsFormsIS\obj\Debug\WindowsFormsIS.Properties.Resources.resources
+C:\Users\joao9\Downloads\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.GenerateResource.cache
+C:\Users\joao9\Downloads\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.CoreCompileInputs.cache
+C:\Users\joao9\Downloads\WindowsFormsIS\obj\Debug\WindowsFormsIS.pdb
+C:\Users\joao9\Downloads\WindowsFormsIS\bin\Debug\WindowsFormsIS.exe.config
+C:\Users\joao9\Downloads\WindowsFormsIS\bin\Debug\WindowsFormsIS.exe
+C:\Users\joao9\Downloads\WindowsFormsIS\bin\Debug\WindowsFormsIS.pdb
+C:\Users\joao9\Downloads\WindowsFormsIS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joao9\Downloads\WindowsFormsIS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joao9\Downloads\WindowsFormsIS\bin\Debug\System.Buffers.dll
+C:\Users\joao9\Downloads\WindowsFormsIS\bin\Debug\System.Memory.dll
+C:\Users\joao9\Downloads\WindowsFormsIS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joao9\Downloads\WindowsFormsIS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joao9\Downloads\WindowsFormsIS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\joao9\Downloads\WindowsFormsIS\bin\Debug\System.Text.Json.dll
+C:\Users\joao9\Downloads\WindowsFormsIS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\joao9\Downloads\WindowsFormsIS\bin\Debug\System.ValueTuple.dll
+C:\Users\joao9\Downloads\WindowsFormsIS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\joao9\Downloads\WindowsFormsIS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joao9\Downloads\WindowsFormsIS\bin\Debug\System.Buffers.xml
+C:\Users\joao9\Downloads\WindowsFormsIS\bin\Debug\System.Memory.xml
+C:\Users\joao9\Downloads\WindowsFormsIS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joao9\Downloads\WindowsFormsIS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joao9\Downloads\WindowsFormsIS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\joao9\Downloads\WindowsFormsIS\bin\Debug\System.Text.Json.xml
+C:\Users\joao9\Downloads\WindowsFormsIS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\joao9\Downloads\WindowsFormsIS\bin\Debug\System.ValueTuple.xml
+C:\Users\joao9\Downloads\WindowsFormsIS\obj\Debug\WindowsF.A9FC3C3E.Up2Date
+C:\Users\joao9\Downloads\WindowsFormsIS\obj\Debug\WindowsFormsIS.exe
+C:\Users\joao9\project\WindowsFormsIS\bin\Debug\WindowsFormsIS.exe.config
+C:\Users\joao9\project\WindowsFormsIS\bin\Debug\WindowsFormsIS.exe
+C:\Users\joao9\project\WindowsFormsIS\bin\Debug\WindowsFormsIS.pdb
+C:\Users\joao9\project\WindowsFormsIS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joao9\project\WindowsFormsIS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joao9\project\WindowsFormsIS\bin\Debug\System.Buffers.dll
+C:\Users\joao9\project\WindowsFormsIS\bin\Debug\System.Memory.dll
+C:\Users\joao9\project\WindowsFormsIS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joao9\project\WindowsFormsIS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joao9\project\WindowsFormsIS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\joao9\project\WindowsFormsIS\bin\Debug\System.Text.Json.dll
+C:\Users\joao9\project\WindowsFormsIS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\joao9\project\WindowsFormsIS\bin\Debug\System.ValueTuple.dll
+C:\Users\joao9\project\WindowsFormsIS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\joao9\project\WindowsFormsIS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joao9\project\WindowsFormsIS\bin\Debug\System.Buffers.xml
+C:\Users\joao9\project\WindowsFormsIS\bin\Debug\System.Memory.xml
+C:\Users\joao9\project\WindowsFormsIS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joao9\project\WindowsFormsIS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joao9\project\WindowsFormsIS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\joao9\project\WindowsFormsIS\bin\Debug\System.Text.Json.xml
+C:\Users\joao9\project\WindowsFormsIS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\joao9\project\WindowsFormsIS\bin\Debug\System.ValueTuple.xml
+C:\Users\joao9\project\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.AssemblyReference.cache
+C:\Users\joao9\project\WindowsFormsIS\obj\Debug\WindowsFormsIS.FormUserLogin.resources
+C:\Users\joao9\project\WindowsFormsIS\obj\Debug\WindowsFormsIS.Main.resources
+C:\Users\joao9\project\WindowsFormsIS\obj\Debug\WindowsFormsIS.Properties.Resources.resources
+C:\Users\joao9\project\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.GenerateResource.cache
+C:\Users\joao9\project\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.CoreCompileInputs.cache
+C:\Users\joao9\project\WindowsFormsIS\obj\Debug\WindowsF.A9FC3C3E.Up2Date
+C:\Users\joao9\project\WindowsFormsIS\obj\Debug\WindowsFormsIS.exe
+C:\Users\joao9\project\WindowsFormsIS\obj\Debug\WindowsFormsIS.pdb
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\bin\Debug\WindowsFormsIS.exe.config
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\bin\Debug\WindowsFormsIS.exe
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\bin\Debug\WindowsFormsIS.pdb
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Buffers.dll
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Memory.dll
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Text.Json.dll
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.ValueTuple.dll
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Buffers.xml
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Memory.xml
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Text.Json.xml
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.ValueTuple.xml
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.AssemblyReference.cache
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.FormUserLogin.resources
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.Main.resources
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.Properties.Resources.resources
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.GenerateResource.cache
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.CoreCompileInputs.cache
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsF.A9FC3C3E.Up2Date
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.exe
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.pdb
+C:\Users\joao9\Downloads\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.FormUserRegister.resources
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\bin\Debug\WindowsFormsIS.exe.config
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\bin\Debug\WindowsFormsIS.exe
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\bin\Debug\WindowsFormsIS.pdb
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Buffers.dll
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Memory.dll
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Text.Json.dll
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.ValueTuple.dll
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Buffers.xml
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Memory.xml
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Text.Json.xml
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.ValueTuple.xml
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.AssemblyReference.cache
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.FormUserLogin.resources
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.FormUserRegister.resources
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.Main.resources
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.Properties.Resources.resources
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.GenerateResource.cache
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.CoreCompileInputs.cache
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsF.A9FC3C3E.Up2Date
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.exe
+C:\Users\joao9\Projects\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.pdb
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\WindowsFormsIS.exe.config
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\WindowsFormsIS.exe
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\WindowsFormsIS.pdb
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Buffers.dll
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Memory.dll
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Text.Json.dll
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.ValueTuple.dll
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Buffers.xml
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Memory.xml
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Text.Json.xml
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.ValueTuple.xml
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.AssemblyReference.cache
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.FormUserLogin.resources
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.FormUserRegister.resources
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.Main.resources
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.Properties.Resources.resources
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.GenerateResource.cache
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.CoreCompileInputs.cache
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsF.A9FC3C3E.Up2Date
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.exe
+C:\Users\joao9\project\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.pdb
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\WindowsFormsIS.exe.config
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\WindowsFormsIS.exe
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\WindowsFormsIS.pdb
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Buffers.dll
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Memory.dll
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Text.Json.dll
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.ValueTuple.dll
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Buffers.xml
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Memory.xml
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Text.Json.xml
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.ValueTuple.xml
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.AssemblyReference.cache
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.FormUserLogin.resources
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.FormUserRegister.resources
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.Main.resources
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.Properties.Resources.resources
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.GenerateResource.cache
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.CoreCompileInputs.cache
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsF.A9FC3C3E.Up2Date
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.exe
+C:\Users\joao9\Downloads\ISTrabalho3ParteCompleto\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.pdb
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\WindowsFormsIS.exe.config
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\WindowsFormsIS.exe
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\WindowsFormsIS.pdb
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Buffers.dll
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Memory.dll
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Text.Json.dll
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.ValueTuple.dll
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Buffers.xml
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Memory.xml
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Text.Json.xml
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.ValueTuple.xml
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.AssemblyReference.cache
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.Converter.resources
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.FormUserLogin.resources
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.FormUserRegister.resources
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.Main.resources
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.Properties.Resources.resources
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.GenerateResource.cache
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.CoreCompileInputs.cache
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsF.A9FC3C3E.Up2Date
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.exe
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.pdb
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.TablesData.resources
+C:\Users\joao9\Projects\ISTrabalho3ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.TestIS.resources
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\WindowsFormsIS.exe
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Text.Json.dll
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\WindowsFormsIS.exe.config
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Buffers.dll
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Memory.dll
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.ValueTuple.dll
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Buffers.xml
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Memory.xml
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Text.Json.xml
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\System.ValueTuple.xml
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.AssemblyReference.cache
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.Converter.resources
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.FormUserLogin.resources
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.FormUserRegister.resources
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.Main.resources
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.Properties.Resources.resources
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.TablesData.resources
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.Part4.resources
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.GenerateResource.cache
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.CoreCompileInputs.cache
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsF.A9FC3C3E.Up2Date
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.exe
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\obj\Debug\WindowsFormsIS.pdb
+C:\Users\joao9\project\ISTrabalho4ParteCompleto\WindowsFormsIS\WindowsFormsIS\bin\Debug\WindowsFormsIS.pdb

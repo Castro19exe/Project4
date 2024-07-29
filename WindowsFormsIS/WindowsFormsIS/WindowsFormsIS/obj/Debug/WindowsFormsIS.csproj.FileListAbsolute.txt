@@ -1,0 +1,26 @@
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\obj\Debug\WindowsFormsIS.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\WindowsFormsIS.exe.config
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\WindowsFormsIS.exe
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\WindowsFormsIS.pdb
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\obj\Debug\WindowsF.A9FC3C3E.Up2Date
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\obj\Debug\WindowsFormsIS.exe
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\obj\Debug\WindowsFormsIS.pdb
+C:\Users\Daniel\Desktop\Licenciatura\2Semestre\Integração de sistemas\WindowsFormsIS\obj\Debug\WindowsFormsIS.MainForm.resources
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\bin\Debug\WindowsFormsIS.exe.config
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\bin\Debug\WindowsFormsIS.exe
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\bin\Debug\WindowsFormsIS.pdb
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\obj\Debug\WindowsFormsIS.MainForm.resources
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\obj\Debug\WindowsFormsIS.Properties.Resources.resources
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.GenerateResource.cache
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\obj\Debug\WindowsFormsIS.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\obj\Debug\WindowsF.A9FC3C3E.Up2Date
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\obj\Debug\WindowsFormsIS.exe
+C:\Users\alexa\OneDrive - Instituto Politécnico de Santarém\Licenciatura Informatica\2ºAno\IS\WindowsFormsIS\obj\Debug\WindowsFormsIS.pdb

@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao9\\project\\projecto4\\WindowsFormsIS\\WindowsFormsIS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29D2F7E1-1270-4FB1-A7AE-6BF561644D35}|WindowsFormsIS.csproj|c:\\users\\joao9\\project\\projecto4\\windowsformsis\\windowsformsis\\formuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D2F7E1-1270-4FB1-A7AE-6BF561644D35}|WindowsFormsIS.csproj|solutionrelative:formuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D2F7E1-1270-4FB1-A7AE-6BF561644D35}|WindowsFormsIS.csproj|c:\\users\\joao9\\project\\projecto4\\windowsformsis\\windowsformsis\\formuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29D2F7E1-1270-4FB1-A7AE-6BF561644D35}|WindowsFormsIS.csproj|solutionrelative:formuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D2F7E1-1270-4FB1-A7AE-6BF561644D35}|WindowsFormsIS.csproj|C:\\Users\\joao9\\project\\projecto4\\WindowsFormsIS\\WindowsFormsIS\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D2F7E1-1270-4FB1-A7AE-6BF561644D35}|WindowsFormsIS.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D2F7E1-1270-4FB1-A7AE-6BF561644D35}|WindowsFormsIS.csproj|C:\\Users\\joao9\\project\\projecto4\\WindowsFormsIS\\WindowsFormsIS\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29D2F7E1-1270-4FB1-A7AE-6BF561644D35}|WindowsFormsIS.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D2F7E1-1270-4FB1-A7AE-6BF561644D35}|WindowsFormsIS.csproj|c:\\users\\joao9\\project\\projecto4\\windowsformsis\\windowsformsis\\classes\\datastructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D2F7E1-1270-4FB1-A7AE-6BF561644D35}|WindowsFormsIS.csproj|solutionrelative:classes\\datastructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataStructure.cs",
+              "DocumentMoniker": "C:\\Users\\joao9\\project\\projecto4\\WindowsFormsIS\\WindowsFormsIS\\Classes\\DataStructure.cs",
+              "RelativeDocumentMoniker": "Classes\\DataStructure.cs",
+              "ToolTip": "C:\\Users\\joao9\\project\\projecto4\\WindowsFormsIS\\WindowsFormsIS\\Classes\\DataStructure.cs",
+              "RelativeToolTip": "Classes\\DataStructure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:55:41.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\joao9\\project\\projecto4\\WindowsFormsIS\\WindowsFormsIS\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\joao9\\project\\projecto4\\WindowsFormsIS\\WindowsFormsIS\\Main.cs [Design]",
+              "RelativeToolTip": "Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:49:05.37Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\joao9\\project\\projecto4\\WindowsFormsIS\\WindowsFormsIS\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\joao9\\project\\projecto4\\WindowsFormsIS\\WindowsFormsIS\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAUwEsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:49:06.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormUserLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\joao9\\project\\projecto4\\WindowsFormsIS\\WindowsFormsIS\\FormUserLogin.cs",
+              "RelativeDocumentMoniker": "FormUserLogin.cs",
+              "ToolTip": "C:\\Users\\joao9\\project\\projecto4\\WindowsFormsIS\\WindowsFormsIS\\FormUserLogin.cs [Design]",
+              "RelativeToolTip": "FormUserLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T13:13:36.75Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormUserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\joao9\\project\\projecto4\\WindowsFormsIS\\WindowsFormsIS\\FormUserLogin.cs",
+              "RelativeDocumentMoniker": "FormUserLogin.cs",
+              "ToolTip": "C:\\Users\\joao9\\project\\projecto4\\WindowsFormsIS\\WindowsFormsIS\\FormUserLogin.cs",
+              "RelativeToolTip": "FormUserLogin.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwDIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T13:13:39.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
